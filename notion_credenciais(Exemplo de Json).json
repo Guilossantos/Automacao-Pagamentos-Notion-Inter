@@ -1,0 +1,5 @@
+{
+    "Pagamentos_de_Projetos_Key": "sua_chave_da_api_notion_aqui",
+    "Pagamentos_de_Projetos_ID": "id_da_base_de_dados_de_pagamentos",
+    "Dados_Bancarios_Fornecedores_ID": "id_da_base_de_dados_bancarios"
+  }
